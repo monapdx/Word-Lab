@@ -1,5 +1,8 @@
 # 🧪 Streamlit Word Lab
 
+
+
+
 **Streamlit Word Lab** is a text-analysis web app built with [Streamlit](https://streamlit.io/) that helps you explore and visualize language patterns in any text or document.  
 Upload TXT, PDF, or HTML files (or paste text) to:
 
