@@ -1,6 +1,7 @@
 # 🧪 Streamlit Word Lab
 
 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
 **Streamlit Word Lab** is a text-analysis web app built with [Streamlit](https://streamlit.io/) that helps you explore and visualize language patterns in any text or document.  
