@@ -3,6 +3,11 @@
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+## Main Screenshot
+![Screenshot](https://raw.githubusercontent.com/monapdx/Word-Lab/refs/heads/main/word-lab.png)
+
+## Results Screenshot
+![Results](https://raw.githubusercontent.com/monapdx/Word-Lab/refs/heads/main/results.png)
 
 **Streamlit Word Lab** is a text-analysis web app built with [Streamlit](https://streamlit.io/) that helps you explore and visualize language patterns in any text or document.  
 Upload TXT, PDF, or HTML files (or paste text) to:
